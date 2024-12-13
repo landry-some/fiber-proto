@@ -1,4 +1,4 @@
-# the-better-backend
+# Fiber backend proto
 A template for a GoLang backend using Fiber, MongoDB, a Makefile, and more
 
 ## Getting Started
